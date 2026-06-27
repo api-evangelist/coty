@@ -65,7 +65,7 @@ common:
     url: https://www.coty.com/contact-us
   - type: PrivacyPolicy
     url: https://www.coty.com/privacy-policy
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.coty.com/terms-of-use
   - type: LinkedIn
     url: https://www.linkedin.com/company/coty/
