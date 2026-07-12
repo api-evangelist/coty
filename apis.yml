@@ -39,6 +39,8 @@ modified: '2026-04-28'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/coty-domain-security.yml
   - type: Website
     url: https://www.coty.com/
   - type: AboutUs
@@ -75,6 +77,8 @@ common:
     url: https://www.instagram.com/cotyinc/
   - type: YouTube
     url: https://www.youtube.com/c/cotyinc
+  - url: https://www.coty.com/news
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
