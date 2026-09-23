@@ -1,7 +1,9 @@
 ---
 title: Coty launches digital accelerator start-up program
 url: https://www.coty.com/news/coty-launches-digital-accelerator-start-up-program
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Coty" press release artificial intelligence'
 position: 2
 source: serpapi-google

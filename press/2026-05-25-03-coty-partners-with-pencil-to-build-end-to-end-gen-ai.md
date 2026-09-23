@@ -1,7 +1,9 @@
 ---
 title: Coty Partners With Pencil to Build End-to-End Gen AI ...
 url: https://www.businesswire.com/news/home/20260504103992/en/Coty-Partners-With-Pencil-to-Build-End-to-End-Gen-AI-Content-System
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Coty" press release artificial intelligence'
 position: 3
 source: serpapi-google
